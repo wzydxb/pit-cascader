@@ -1,0 +1,23 @@
+{
+  "name": "pit-cascader",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./lib/pit-cascader.js",
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.4",
+    "pit-cascader": "^0.0.1",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.2"
+  }
+}
